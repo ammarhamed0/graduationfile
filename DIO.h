@@ -9,7 +9,7 @@
 #ifndef DIO_H_
 #define DIO_H_
 
-#include "ATMEGA32_Regs (1).h"
+#include "ATMEGA32_Regs.h"
 #include "BIT_MATH.h"
 
 

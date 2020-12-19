@@ -9,7 +9,7 @@
 #ifndef SPI_H_
 #define SPI_H_
 
-#include "ATMEGA32_Regs (1).h"
+#include "ATMEGA32_Regs.h"
 #include "BIT_Math.h"
 #include "DIO.h"
 

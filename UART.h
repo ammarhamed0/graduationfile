@@ -8,7 +8,7 @@
 
 #ifndef UART_H_
 #define UART_H_
-#include "ATMEGA32_Regs (1).h"
+#include "ATMEGA32_Regs.h"
 #include "STD.h"
 
 void UART_Init(void);
