@@ -17,7 +17,7 @@ void UART_Init(void)
 	SET_BIT(UCSRB,4);
 	UCSRC |= 0X86;
 	
-	UBRR_Val =((16000000) / (16 *9600)-1);
+	UBRR_Val =((8000000) / (16 *9600)-1);
 	UBRRL = UBRR_Val;
 }
 
